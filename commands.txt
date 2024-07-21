@@ -5,3 +5,13 @@ npm i express-validator
 npm i bcrypt
 npm install jsonwebtoken
 openssl rand -base64 32
+npm i cors
+
+frontend:
+npx create-react-app client
+npm start
+npm i react-router-dom
+npm i axios
+npm i react-toastify
+
+bootswatch.com
